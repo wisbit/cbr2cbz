@@ -6,7 +6,7 @@ do
 	#dir="6 Jours et mourir/"
 	if [[ ${folder} != *".sh" ]]; then
 		sudo mkdir "${dir}"temp
-		sudo chown wisbit:wisbit "${dir}"temp
+		sudo chown $USER:$USER "${dir}"temp
 	
 	for f in "${dir}"*
 		do
