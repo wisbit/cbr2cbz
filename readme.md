@@ -6,13 +6,13 @@ Uses ARK and zip for extracting and zipping.
 This script assumes the following structure
 
 MAINFOLDER
-	|
-	----> folder 1
-			|
-			----> cbrfile1.cbr
-			----> cbrfile2.cbr
-	|---> folder 2
-		...etc
+|
+----> folder 1
+ |
+ ----> cbrfile1.cbr
+ ----> cbrfile2.cbr
+|---> folder 2
+...etc
 
 
 
